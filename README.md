@@ -14,7 +14,7 @@ const dev = {
   languages: [JavaScript, TypeScript, HTML, CSS],
   technologies: [React, Remix, Next.js, Redux, React Query, GraphQL, Zod, Tailwind CSS, styled-components, Storybook, Cypress, Playwright, React Testing Library, Jest, Vitest, Node.js, Firebase, Postman, Electron],
   cloudPlatforms: [Google Cloud Platform],
-  databases: [Firestore]
-  website: ["https://simonepizzamiglio.com/"]
+  databases: [Firestore],
+  website: "https://simonepizzamiglio.com/"
 }
 ```
